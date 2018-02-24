@@ -1,6 +1,8 @@
 codebash Plugin for DokuWiki
 
-Adds Toolbar button to add code tag for bash.  This is a copy of the CodeButton extension, just slightly modified.  
+Adds Toolbar button to add code tag for bash.  This is a copy of the CodeButton extension by Heiko Barth, just slightly modified.  
+
+See Heiko Barth's original project - https://www.dokuwiki.org/plugin:codebutton
 
 Also, includes an icon from https://icons8.com/.
 
