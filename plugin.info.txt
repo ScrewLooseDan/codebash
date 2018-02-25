@@ -1,6 +1,6 @@
 base   codebash
 author Dan Cunningham
-date   2018-02-24
+date   2018-02-25
 name   Code Bash Button Plugin
 desc   Adds Toolbar button to add code tag for bash.  This is a copy of the CodeButton extension, just slightly modified.  Also  includes an icon from https://icons8.com/.
 url    https://github.com/ScrewLooseDan/codebash
